@@ -1,9 +1,0 @@
-```json
- {
-   "rewrites": [
-     {
-       "source": "/(.*)",
-       "destination": "/api/index.py"
-     }
-   ]
- }
